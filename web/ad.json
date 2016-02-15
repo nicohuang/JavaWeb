@@ -1,0 +1,5 @@
+{
+  "image_url":"http://192.168.172.61:8080/image/abc3.jpg",
+  "action_url":"page://content_web?url=http://192.168.172.61:8080/ad.jsp&title=广告",
+  "version":"2.9"
+}
